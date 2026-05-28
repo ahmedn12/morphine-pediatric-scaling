@@ -1,0 +1,4 @@
+Age_group,AUC_median,AUC_p5,AUC_p95,Cmax_median,CL_median
+Newborn (0d),1.451,1.109,1.846,0.2116,0.071
+6-Year-Old,0.085,0.043,0.159,0.2114,22.68
+Adult (30yr),0.07,0.036,0.128,0.2024,96.945
